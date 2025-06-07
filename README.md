@@ -1,4 +1,4 @@
-# NeoStats AI Insights Assistant
+# EXCEL CHATBOT AI Insights Assistant
 
 This project is a web-based conversational assistant built as part of the AI Engineer Use Case for NeoStats. The application allows business users to upload an Excel file, ask questions about the data in natural language, and receive answers in the form of text, tables, or visualizations.
 
@@ -33,10 +33,7 @@ This agent-based approach ensures maximum flexibility and fulfills the key requi
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/neostats-chatbot.git](https://github.com/your-username/neostats-chatbot.git)
-    cd neostats-chatbot
-    ```
-
+    git clone [https://github.com/joelgemini/EXCEL-CHATBOT.git]
 2.  **Create a virtual environment and install dependencies:**
     ```bash
     python -m venv venv
