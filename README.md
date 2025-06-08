@@ -1,4 +1,4 @@
-# EXCEL CHATBOT AI Insights Assistant
+# EXCEL CHATBOT AI Insights Assistant (https://excel-chatbot-foog.onrender.com/)
 
 This project is a web-based conversational assistant built as part of the AI Engineer Use Case for NeoStats. The application allows business users to upload an Excel file, ask questions about the data in natural language, and receive answers in the form of text, tables, or visualizations.
 
